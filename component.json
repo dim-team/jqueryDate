@@ -1,0 +1,12 @@
+{
+   "name": "jqueryDate",
+   "version": "1.0.0",
+   "description": "jqueryDate",
+   "main": "jQuery-jcDate.js",
+    "files": [
+     "dateIco2.png",
+     "r_left.png",
+     "r_right.png",
+     "jcDate.css"
+   ]
+}
